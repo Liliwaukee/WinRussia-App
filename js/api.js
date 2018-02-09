@@ -12,7 +12,7 @@ function statisticsData(){
                 var goalsAgainst = team["goals_against"];
                 var goalDifferential = team["goal_differential"];
                 printStatistics(country, wins, draws, losses, games, points, goalsFor, goalsAgainst, goalDifferential);
-                drawChart(country, wins);
+                
             });
 
     });
