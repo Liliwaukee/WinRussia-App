@@ -120,13 +120,19 @@ src: url(../assets/fonts/dusha.ttf);
 
 #main-matches{
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> upstream/master
   margin-top: 10%;
 }
 
 
 .side-nav{
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> upstream/master
   margin-top: 1%;
 }
 
@@ -134,6 +140,9 @@ src: url(../assets/fonts/dusha.ttf);
 /*Estilo de apuestas*/
 .bet {
   color: black;
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 }
 
@@ -171,6 +180,9 @@ src: url(../assets/fonts/dusha.ttf);
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> upstream/master
 
 /*Tarjeta*/
 .example.example4 {
@@ -308,5 +320,8 @@ src: url(../assets/fonts/dusha.ttf);
 .example.example4 .success .reset path {
   fill: #d782d9;
 }
+<<<<<<< HEAD
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
