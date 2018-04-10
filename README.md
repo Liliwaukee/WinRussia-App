@@ -1,8 +1,13 @@
 # WinRussia # 
+### Vista previa 
+
+<img src=assets/images/vista.PNG>
+
 ### V1.0.0
 <img src=assets/images/logo-horizontal.png>
 
 ## Tabla de Contenido
+1. [Herramientas utilizadas](#herramientas)
 1. [Descripción de producto](#descripcion)
 2. [Descripción funcional](#descripcion-func)
     1. [Navegación](#navegacion)
@@ -11,6 +16,13 @@
     2. [Research](#research)
     3. [Problemas a resolver para el usuario](#problemas)
 4. [Planeación](#planeacion)
+
+## <a name="herramientas"></a> Herramientas utilizadas:
+- Api de "yes or not" para juego de azar
+- Api de Stripe como forma de pago
+- Api de FIFA con los datos de los juegos pasados para generar estadísticas
+- Firebase para autenticación de usuario por medio de Google y Facebook
+- Responsive 
 
 ## <a name="descripcion"></a> Descripción de producto:
 - WinRussia es una app móvil dedicada al Mundial de fútbol de Rusia 2018 referente a los partidos en la misma aplicación.
