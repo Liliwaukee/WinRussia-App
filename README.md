@@ -1,6 +1,8 @@
 # WinRussia # 
 ### Vista previa 
 
+![views](https://user-images.githubusercontent.com/32861306/38595720-db945cae-3d12-11e8-8d25-79d60b62ea41.jpg)
+
 <img src=assets/images/vista.PNG>
 
 ### V1.0.0
