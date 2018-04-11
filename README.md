@@ -11,15 +11,15 @@
 <img src=assets/images/logo-horizontal.png>
 
 ## Tabla de Contenido
-1. [Herramientas utilizadas](#herramientas)
-1. [Descripción de producto](#descripcion)
-2. [Descripción funcional](#descripcion-func)
-    1. [Navegación](#navegacion)
-3. [Fundamentos del producto](#fundamentos)
-    1. [Usuario objetivo](#usuario)
-    2. [Research](#research)
-    3. [Problemas a resolver para el usuario](#problemas)
-4. [Planeación](#planeacion)
+1. [Herramientas utilizadas](##herramientas)
+1. [Descripción de producto](##descripcion)
+2. [Descripción funcional](##descripcion-func)
+    1. [Navegación](##navegacion)
+3. [Fundamentos del producto](##fundamentos)
+    1. [Usuario objetivo](##usuario)
+    2. [Research](##research)
+    3. [Problemas a resolver para el usuario](##problemas)
+4. [Planeación](##planeacion)
 
 ## <a name="herramientas"></a> Herramientas utilizadas:
 - Api de "yes or not" para juego de azar
